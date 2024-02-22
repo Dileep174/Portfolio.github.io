@@ -7,6 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 index.txt*
+Design.vue*
+
 node_modules
 .DS_Store
 dist
@@ -16,7 +18,6 @@ coverage
 
 /cypress/videos/
 /cypress/screenshots/
-view/posts/*
 
 # Editor directories and files
 .vscode/*
