@@ -9,11 +9,11 @@ const testimonial = ref([
 ]);
 const clients = ref([
     {url:'/src/assets/images/testimonial-1.jpg', name:'Paublo Dybala', profile:'CEO of <span>IBM Global</span>', project:'Project',
-    msg:'“Drake - A Developer with the creativity, professional and master of code. Much more than what i&sbquo;m expect. High quality product & flexiable price. Recommended!.”',},
+    msg:'Welkin - A Developer with the creativity, professional and master of code. Much more than what i&sbquo;m expect. High quality product & flexiable price. Recommended!.”',},
     {url:'/src/assets/images/testimonial-2.jpg', name:'Christina Morillo', profile:'Product Management of <span>Invision App Inc</span>', project:'Project',
-    msg:'“Drake was a real pleasure to work with and we look forward to working with him again. He&sbquo;s definitely the kind of designer that you can trust with any project from A-Z.”'},
+    msg:'Welkin was a real pleasure to work with and we look forward to working with him again. He&sbquo;s definitely the kind of designer that you can trust with any project from A-Z.”'},
     {url:'/src/assets/images/testimonial-3.jpg', name:'Phil Foden', profile:'Director of <span>Envato LLC</span>', project:'Project',
-    msg:'“Extremely profressional and fast service!. Drake is a master of code and he also very creative. We done 3 projects with him and certain will continue.”'}
+    msg:'“Extremely profressional and fast service!. Welkin is a master of code and he also very creative. We done 3 projects with him and certain will continue.”'}
 ]);
 const brands = ref([
     {url:'/src/assets/images/client-1.png'},

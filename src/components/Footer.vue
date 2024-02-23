@@ -3,11 +3,11 @@ import { ref } from 'vue'
 
 const footer = ref([
     {logo:'/src/assets/images/logo.png', 
-    profile:'/src/assets/images/me.jpg',
+    profile:'/src/assets/images/logo1.jpg',
     discription:'Framer Designer & Developer',
-    email:'hello@drake.design',
+    email:'hello@Welkin.design',
     add:'Base in Los Angeles, CA',
-    cpyrit:'&copy; 2022 Drake. All Rights Reserved',
+    cpyrit:'&copy; 2022 Welkin. All Rights Reserved',
     btn:'Hire Me!'}
 ])
 </script>

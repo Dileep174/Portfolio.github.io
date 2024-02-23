@@ -75,29 +75,6 @@ const cards = ref([
                                             <a href="" class="theme-btn">{{ card.btn }}</a>
                                         </div>
                                     </div>
-                                    <!-- <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
-                                        <div class="pricing-table">
-                                            <div class="pricing-table-header">
-                                                <div class="top d-flex justify-content-between align-items-start">
-                                                    <h4>premium</h4>
-                                                    <p class="text-right">Not have any design?<br>
-                                                        Leave its for me</p>
-                                                </div>
-                                                <h1>$129 <span>/ hour</span></h1>
-                                            </div>
-                                            <ul class="feature-lists">
-                                                <li>Don't need wireframe or anything</li>
-                                                <li>Design with Figma, Framer from scratch</li>
-                                                <li>Implement with Webflow, React, WordPress, Laravel/PHP</li>
-                                                <li>Remote/Online</li>
-                                                <li>Work with both weekend</li>
-                                                <li>Support 12 months</li>
-                                                <li>Your project alway be priority</li>
-                                                <li>Customer care gifts</li>
-                                            </ul>
-                                            <a href="" class="theme-btn">pick this package</a>
-                                        </div>
-                                    </div> -->
                                 </div>
                                 <p class="info scroll-animation" data-animation="fade_from_bottom">
                                     Don't find any package match with your plan!<br>

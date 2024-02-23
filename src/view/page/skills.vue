@@ -36,51 +36,6 @@ const cards = ref([
                                         <p class="name">{{ card.name }}</p>
                                     </div>
                                 </div>
-                                <!-- <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="" alt="Framer">
-                                            <h1 class="percent"></h1>
-                                        </div>
-                                        <p class="name"></p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_top">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="" alt="Webflow">
-                                            <h1 class="percent">80%</h1>
-                                        </div>
-                                        <p class="name">Webflow</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="" alt="React">
-                                            <h1 class="percent">90%</h1>
-                                        </div>
-                                        <p class="name">React</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="/src/assets/images/wordpress.png" alt="WordPress">
-                                            <h1 class="percent">86%</h1>
-                                        </div>
-                                        <p class="name">WordPress</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="/src/assets/images/laravel.png" alt="Laravel/PHP">
-                                            <h1 class="percent">70%</h1>
-                                        </div>
-                                        <p class="name">Laravel/PHP</p>
-                                    </div>
-                                </div> -->
                             </div>
         
                         </div>

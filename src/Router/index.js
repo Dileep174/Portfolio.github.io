@@ -9,8 +9,6 @@ import portfolio from '@/view/page/portfolio.vue'
 import testimonial from '@/view/page/testimonial.vue'
 import contact from '@/view/page/contact.vue'
 import Design from '../view/posts/Design.vue'
-import Develoment from '@/view/posts/Develoment.vue'
-import Seo from '@/view/posts/Seo.vue'
 
 
 
@@ -66,18 +64,6 @@ const routes=[
         name:'Design',
         path:'/Design',
         component: Design,
-    },
-
-    {
-        name:'Develoment',
-        path:'/Develoment',
-        component: Develoment,
-    },
-
-    {
-        name:'Seo',
-        path:'/Seo',
-        component: Seo,
     },
 ];
 

@@ -19,10 +19,7 @@
                     To: "spider64837@gmail.com",
                     From: "spider64837@gmail.com",
                     name: this.name,
-                    Email: this.email,
-                    Phone: this.phone,
                     Subject: this.subject,
-                    Budget: this.budget,
                     Body: this.message,
                 }).then((message)=>alert(message)); 
             },
@@ -45,7 +42,7 @@
                                 </h4>
                                 <h1 class="scroll-animation" data-animation="fade_from_bottom">Let's Work <span>Together!</span></h1>
                             </div>
-                            <h3 class="scroll-animation" data-animation="fade_from_bottom">hello@drake.design</h3>
+                            <h3 class="scroll-animation" data-animation="fade_from_bottom">hello@Welkin.design</h3>
                             <p id="required-msg">* Marked fields are required to fill.</p>
                             <!-- <p>{{ formData }}</p> -->
                             <form class="contact-form scroll-animation" data-animation="fade_from_bottom" method="POST" @submit.prevent="sendEmail">
